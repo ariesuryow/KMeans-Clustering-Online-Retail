@@ -1,5 +1,13 @@
 # Customer Segmentation Using Clustering
 
+Original Dataset from https://archive.ics.uci.edu/dataset/352/online+retail
+
+To properly render Plotly (px) visualizations, please visit my Kaggle site project
+
+https://www.kaggle.com/code/ariesuryow/eda-clustering-online-retail/notebook
+
+
+
 ## 📌 Project Overview
 This project focuses on customer segmentation for an online retail business using unsupervised machine learning (clustering). By segmenting customers based on purchasing behavior, businesses can tailor marketing strategies and improve customer retention.
 
